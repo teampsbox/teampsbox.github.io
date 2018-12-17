@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: O Be Wise
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+We believe that wise people are the ones who move this world forward. They help people to be better and even make this world a better place to live in. We encourage everyone that they may choose to be wise. And one of the ways that we can do is by doing our passion. But passion alone is not and will never be enough. We need a driving force that will help us to keep going no matter what. We need to do our passion with a purpose. If you believe on what we believe then you are most welcome. Our goal is to build a team with that common vision. We can never do it without your help. We need each other's help. **For every person is different and has a different contribution to make.**
